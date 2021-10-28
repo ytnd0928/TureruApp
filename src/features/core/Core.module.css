@@ -1,0 +1,66 @@
+.core_content {
+  background-image: url("");
+  background-size: cover;
+  background-repeat: repeat-y;
+  height: 800px;
+}
+
+.core_title {
+  font-family: normal;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+.core_signUp {
+  display: flex;
+  flex-direction: column;
+}
+
+.core_text {
+  color: black(255, 255, 255);
+  text-align: center;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.core_header {
+  position: sticky;
+  top: 0;
+  opacity: 0.5;
+  background-image: url("./images/tureruheader3.png");
+  padding: 20px;
+  border-bottom: 1px solid rgb(124, 124, 124);
+  object-fit: contain;
+  display: flex;
+  z-index: 1;
+  justify-content: space-between;
+}
+.core_btnModal {
+  background-color: transparent;
+  color: rgb(17, 16, 16);
+  padding-top: 3px;
+  font-size: 32px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.core_logout {
+  display: flex;
+  justify-content: flex-end;
+}
+.core_posts {
+  padding: 20px;
+}
+.core_progress {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.core_modal {
+  background-image: url("./images/modalback.png");
+}
+
+.core_postModal {
+  background-image: url("./images/modalback.png");
+}
