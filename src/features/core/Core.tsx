@@ -108,10 +108,6 @@ const Core: React.FC = () => {
     setSearchText(e.target.value);
   };
 
-
-      
-   
-
   
   return (
     <div className={styles.core_content}>
