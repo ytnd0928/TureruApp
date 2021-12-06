@@ -2,7 +2,7 @@
 
 
 # 「Tureru App」
-
+https://serene-babbage-3506af.netlify.app/
 
 
 ＃  概要
