@@ -1,7 +1,9 @@
-#アプリケーション名　
+# アプリケーション名　
 
 
 「Tureru App」
+
+
 
 ＃概要
 
@@ -16,6 +18,8 @@ e-mailとpassでの二段階でのログイン、画像投稿機能、いいね�
 
 
 #使用技術
+
+
 
 React   Typescript Redux-tool-kit
 
