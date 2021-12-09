@@ -5,6 +5,12 @@
 https://serene-babbage-3506af.netlify.app/
 
 
+詳細
+
+[Tureru App.pdf](https://github.com/ytnd0928/TureruApp/files/7682981/Tureru.App.pdf)
+
+
+
 ＃  概要
 
 魚釣りに関するWebアプリケーションで、今何がどこで釣れているのかがSNS感覚でわかります。
